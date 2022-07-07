@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="reutilizacion:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="reutilizacion.jar">
+      <element id="module-output" name="reutilizacion" />
+    </root>
+  </artifact>
+</component>
